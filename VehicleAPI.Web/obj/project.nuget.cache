@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/FbNzB/33ygiWipSULF2cRthP/h+8KLpBaNYqXfUotUmAU+ldX7MU0G3QTh5QdDzglIRAxTPo0jOyw5hseq9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KeremNalbant\\Desktop\\VehicleAPI\\VehicleAPI.Web\\VehicleAPI.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\KeremNalbant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.AssemblyReference.cache
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Service.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Service.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VecihleAPI.Data.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Model.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VecihleAPI.Data.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Model.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.CopyComplete
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.pdb

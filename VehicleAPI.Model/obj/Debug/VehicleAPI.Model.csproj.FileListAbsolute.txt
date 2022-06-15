@@ -1,0 +1,6 @@
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\bin\Debug\VehicleAPI.Model.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\bin\Debug\VehicleAPI.Model.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\obj\Debug\VehicleAPI.Model.csproj.AssemblyReference.cache
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\obj\Debug\VehicleAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\obj\Debug\VehicleAPI.Model.dll
+C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Model\obj\Debug\VehicleAPI.Model.pdb

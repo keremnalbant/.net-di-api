@@ -1,0 +1,9 @@
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\bin\Debug\VecihleAPI.Data.dll
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\bin\Debug\VecihleAPI.Data.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\bin\Debug\VehicleAPI.Model.dll
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\bin\Debug\VehicleAPI.Model.pdb
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\obj\Debug\VecihleAPI.Data.csproj.AssemblyReference.cache
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\obj\Debug\VecihleAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\obj\Debug\VecihleAPI.Data.csproj.CopyComplete
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\obj\Debug\VecihleAPI.Data.dll
+C:\Users\a852626\source\repos\VehicleAPI\VecihleAPI.Data\obj\Debug\VecihleAPI.Data.pdb
