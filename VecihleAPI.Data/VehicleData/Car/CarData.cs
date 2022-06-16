@@ -30,35 +30,14 @@ namespace VecihleAPI.Data.VehicleData.CarData
             lstCars.Add(new CarModel() { Id = 6, Color = ColorEnum.Red, IsDelete = false, IsHeadLightActive = true, Wheels = 4 });
         }
 
-        public List<CarModel> GetVehiclesByColor(int color)
+        public List<CarModel> GetCars()
         {
-            return lstCars.Where(x => x.Color == (ColorEnum)color).ToList();
+            return lstCars;
         }
 
-        public bool TurnOnOffVehicleHeadlight(int id)
+        public bool UpdateCars(List<CarModel> updatedCars)
         {
-            var car = lstCars.FirstOrDefault(x => x.Id == id && !x.IsDelete);
-
-            if (car == null)
-            {
-                throw new Exception("Car not found!");
-            }
-
-            car.IsHeadLightActive = car.IsHeadLightActive ? false : true;
-
-            return car.IsHeadLightActive;
-        }
-
-        public bool DeleteCarById(int id)
-        {
-            var car = lstCars.FirstOrDefault(x => x.Id == id && !x.IsDelete);
-
-            if(car == null)
-            {
-                throw new Exception("Car not found!");
-            }
-
-            car.IsDelete = true;
+            lstCars = updatedCars;
             return true;
         }
     }

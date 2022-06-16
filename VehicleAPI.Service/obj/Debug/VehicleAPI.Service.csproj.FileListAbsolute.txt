@@ -9,3 +9,14 @@ C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI
 C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.CopyComplete
 C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.dll
 C:\Users\a852626\source\repos\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.pdb
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Service.dll
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Service.pdb
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VecihleAPI.Data.dll
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Model.dll
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VecihleAPI.Data.pdb
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\bin\Debug\VehicleAPI.Model.pdb
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.AssemblyReference.cache
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.csproj.CopyComplete
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.dll
+C:\Users\KeremNalbant\Desktop\VehicleAPI\VehicleAPI.Service\obj\Debug\VehicleAPI.Service.pdb

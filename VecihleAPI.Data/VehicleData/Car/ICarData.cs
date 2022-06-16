@@ -5,8 +5,7 @@ namespace VecihleAPI.Data.VehicleData.CarData
 {
     public interface ICarData
     {
-        List<CarModel> GetVehiclesByColor(int color);
-        bool TurnOnOffVehicleHeadlight(int id);
-        bool DeleteCarById(int id);
+        List<CarModel> GetCars();
+        bool UpdateCars(List<CarModel> updatedCars);
     }
 }

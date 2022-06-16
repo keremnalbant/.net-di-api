@@ -20,17 +20,39 @@ namespace VehicleAPI.Service.Vehicle.Car
 
         public bool DeleteVehicleById(int id)
         {
-            return _carData.DeleteCarById(id);
+            var lstCars = _carData.GetCars();
+            var car = lstCars
+                .FirstOrDefault(x => x.Id == id && !x.IsDelete);
+
+            if (car == null)
+            {
+                throw new Exception("Car not found!");
+            }
+
+            car.IsDelete = true;
+            return _carData.UpdateCars(lstCars);
         }
 
         public List<CarModel> GetVehicleColor(int color)
         {
-            return _carData.GetVehiclesByColor(color);
+            var lstCars = _carData.GetCars();
+            return lstCars.Where(x => x.Color == (ColorEnum)color).ToList();
         }
 
         public bool TurnOnOffVehicleHeadlight(int id)
         {
-            return _carData.TurnOnOffVehicleHeadlight(id);
+            var lstCars = _carData.GetCars();
+            var car = lstCars.FirstOrDefault(x => x.Id == id && !x.IsDelete);
+
+            if (car == null)
+            {
+                throw new Exception("Car not found!");
+            }
+
+            car.IsHeadLightActive = car.IsHeadLightActive ? false : true;
+            _carData.UpdateCars(lstCars);
+
+            return car.IsHeadLightActive;
         }
     }
 }
